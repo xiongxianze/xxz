@@ -9,5 +9,6 @@ public class MainApplication {
         System.out.println("hello world");
         System.out.println("hello world1");
         System.out.println("hello world1.5");
+        System.out.println("2");
     }
 }
